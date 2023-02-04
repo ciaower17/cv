@@ -10,7 +10,7 @@ hr {
     border-top-style: dotted;
     border-width: 5px;
     width: 5%;
-    color: darkgray;
+    color: #FF0063;
 
 }
 
@@ -50,5 +50,22 @@ ul.ul {
 ol.ol {
     display: inline-block;
     text-align: left;
+}
+
+a.video {
+    color: #FF0063;
+}
+
+a.contact {
+    color: #FF0063;
+}
+
+hr.up {
+    border-style: none;
+    height: 0px ;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 100%;
+    color: #FF0063;
 }
 
